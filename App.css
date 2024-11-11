@@ -1,0 +1,14 @@
+/* App.css */
+.App {
+  text-align: center;
+  margin-top: 20px;
+}
+
+button {
+  margin: 5px;
+  padding: 10px 15px;
+}
+
+input[type="checkbox"] {
+  margin-left: 10px;
+}
